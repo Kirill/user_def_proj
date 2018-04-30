@@ -1,0 +1,4 @@
+<?php
+
+$s_plugin_user_def_proj_plugin_title = 'User Define Project';
+$s_plugin_user_def_proj_plugin_description = 'Set default project for new users. For now default project set in user_def_proj.php';
